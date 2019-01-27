@@ -9,5 +9,7 @@
 This is a 0 players game. Configure the initial board by right clicking the different squares and see how it evolves.
 A start/stop button was added to be able to tweak the configuration mid-game.
 
+There are many grid configurations to try out, but I recommend checking out these few [examples](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#Examples_of_patterns) to start with.
+
 ## Instructions
 Execute the Game.java class.
